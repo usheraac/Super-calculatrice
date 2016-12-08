@@ -1,0 +1,7 @@
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\bin\Debug\Adder.dll
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\bin\Debug\Adder.pdb
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\bin\Debug\computer.dll
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\bin\Debug\computer.pdb
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\obj\Debug\Adder.csprojResolveAssemblyReference.cache
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\obj\Debug\Adder.dll
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\Adder\obj\Debug\Adder.pdb

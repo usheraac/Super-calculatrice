@@ -1,0 +1,7 @@
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\bin\Debug\trigo.dll
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\bin\Debug\trigo.pdb
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\bin\Debug\computer.dll
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\bin\Debug\computer.pdb
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\obj\Debug\trigo.csprojResolveAssemblyReference.cache
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\obj\Debug\trigo.dll
+C:\Users\nadège\Desktop\Bloc 3\projet info\mes labos\labo3_2\trigo\obj\Debug\trigo.pdb
